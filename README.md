@@ -1,8 +1,6 @@
 # devops-fully-automated-infra
 Fully automated and secured Terraform infra pipeline
-
 Testing teh webhook.....
-
 ## CICD Infra setup
 1) ###### GitHub setup
     Fork GitHub Repository by using the existing repo "devops-fully-automated-infra" (https://github.com/cvamsikrishna11/devops-fully-automated-infra)     
@@ -45,8 +43,6 @@ Testing teh webhook.....
     - Click "Available Plugins"
     - Search and Install the following Plugings "Install Without Restart"        
         - **Slack Notification**
-
-
 
 3)  #### Pipeline creation
     - Click on **New Item**
