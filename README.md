@@ -44,8 +44,6 @@ Testing teh webhook.....
     - Search and Install the following Plugings "Install Without Restart"        
         - **Slack Notification**
 
-
-
 3)  #### Pipeline creation
     - Click on **New Item**
     - Enter an item name: **app-infra-pipeline** & select the category as **Pipeline**
